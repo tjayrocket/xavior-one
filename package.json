@@ -1,0 +1,27 @@
+{
+  "name": "xavior-one",
+  "version": "1.0.0",
+  "description": "Xaviors first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjayrocket/xavior-one.git"
+  },
+  "keywords": [
+    "Xavior",
+    "T.Jay",
+    "Rocket"
+  ],
+  "author": "T.Jay Rocket",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjayrocket/xavior-one/issues"
+  },
+  "homepage": "https://github.com/tjayrocket/xavior-one#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
